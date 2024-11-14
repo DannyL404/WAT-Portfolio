@@ -1,0 +1,25 @@
+@import "~node_modules/bulma/css/bulma.css";
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+    color: #000000;
+}
+table {
+    table-layout: fixed;
+    .col-1 {
+        width: 20%;
+    }
+    .col-2 {
+        width: 40%;
+    }
+    .col-3 {
+        width: 40%;
+    }
+}
+.footer {
+    background-color: #B4E4C0;
+    color: #000000;
+    padding: 2rem 1.5rem;
+}

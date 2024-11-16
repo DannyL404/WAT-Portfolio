@@ -5,18 +5,26 @@
 h1 {
     color: #000000;
 }
-table {
-    table-layout: fixed;
-    .col-1 {
-        width: 20%;
-    }
-    .col-2 {
-        width: 40%;
-    }
-    .col-3 {
-        width: 40%;
-    }
+
+.container {
+  display: flex;
 }
+
+.column1 {
+  width: 10%;
+}
+
+.column2 {
+  width: 20%;
+}
+
+.column3 {
+  width: 30%;
+}
+
+.column4 {
+  width: 40%;
+
 .footer {
     background-color: #B4E4C0;
     color: #000000;

@@ -23,7 +23,14 @@ h1 {
 }
 
 .column4 {
-  width: 40%;
+    width: 40%;
+}
+.column5 {
+    width: 50%;
+}
+.column9 {
+    width: 90%;
+}
 
 .footer {
     background-color: #B4E4C0;

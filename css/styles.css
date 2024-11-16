@@ -6,6 +6,10 @@ h1 {
     color: #000000;
 }
 
+.navbar.is-primary {
+  background-color: #57C271;
+}
+
 .container {
   display: flex;
 }
